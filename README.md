@@ -1,9 +1,11 @@
 # KiwilandTracks
 
-  $ git clone kiwiland_tracks
-  $ cd kiwiland_tracks
+```
+  $ git clone https://github.com/basvk/kiwiland.git
+  $ cd kiwiland
   $ bundle
   $ rake
+```
 
 Resulting output:
 
